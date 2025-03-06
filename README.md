@@ -28,4 +28,4 @@ We conducted an architectural evaluation, scaling up the layers of a GPT-2-based
 Oh ya, for Deepseek V3, after we modify the code, don't worry about how to code in advance tasks such as hackerrank and leetcode, it's all about how you prompt. If you're a master at prompting (of course don't like an idiot user, please use your logic dude), you can do crazy things with this model<br>
 <br> <br>
 Special thanks to our montir -> Wanto, Tan Hyao, Kristanto, Hang Tou, Yun Han Que<Br>
-![screenshot](Graph-TransFormer/graph_transformer_flowchart.png)
+![screenshot](graph_transformer_flowchart.png)
